@@ -1,0 +1,121 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_Libraries</name>
+      <values lines_count="1">
+        <Line>"TSS_KXX_M0"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Linker_SearchLibraryPaths</name>
+      <values lines_count="1">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="5">
+        <Line>"${ProjDirPath}/Sources/TSS"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Sources/TSS/TSS_SensorTSI.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849072" FileType="16384" CompNumb="21" />
+      <File Name="Sources/TSS/TSS_SensorTSI.c" FileDate="2014-12-27, 11:10:49" FileAge="1419649849059" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/LEDpin3.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352567" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2014-12-25, 23:42:02" FileAge="1419522122764" FileType="45637" CompNumb="10" />
+      <File Name="Sources/TSS/TSS_SensorTSI_def.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849077" FileType="16384" CompNumb="21" />
+      <File Name="Static_Code/PDD/GPIO_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Sources/main.c" FileDate="2014-12-27, 10:06:00" FileAge="1419645960704" FileType="128" />
+      <File Name="Generated_Code/LEDpin3.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352542" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/LEDpin2.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352601" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2014-12-27, 11:10:53" FileAge="1419649853568" FileType="45637" CompNumb="10" />
+      <File Name="Sources/TSS/TSS_Freemaster.c" FileDate="2014-12-27, 11:10:48" FileAge="1419649848937" FileType="16384" CompNumb="21" />
+      <File Name="Sources/TSS/TSS_SensorTSIL_def.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849135" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/LEDpin2.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352596" FileType="45637" CompNumb="16" />
+      <File Name="Static_Code/PDD/LPTMR_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Generated_Code/LEDpin1.h" FileDate="2014-12-25, 23:47:43" FileAge="1419522463585" FileType="45637" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_GPIO.h" FileDate="2014-12-27, 11:10:48" FileAge="1419649848958" FileType="16384" CompNumb="21" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2014-12-25, 23:17:10" FileAge="1419520630760" FileType="16384" CompNumb="10" />
+      <File Name="Generated_Code/LEDpin1.c" FileDate="2014-12-25, 23:47:43" FileAge="1419522463571" FileType="45637" CompNumb="8" />
+      <File Name="Sources/TSS/TSS_Timer.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849208" FileType="16384" CompNumb="21" />
+      <File Name="Static_Code/PDD/I2C_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/PIT_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352647" FileType="45637" />
+      <File Name="Static_Code/PDD/RTC_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/MCM_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_SensorGPIO_def.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849047" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2014-12-25, 23:42:02" FileAge="1419522122620" FileType="45637" />
+      <File Name="Sources/TSS/libTSS_KXX_M0.a" FileDate="2014-12-27, 11:10:48" FileAge="1419649848891" FileType="16384" CompNumb="21" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849042" FileType="16384" CompNumb="21" />
+      <File Name="Sources/derivative.h" FileDate="2014-12-27, 09:33:40" FileAge="1419644020361" FileType="45637" CompNumb="21" />
+      <File Name="Documentation/doxygen/BitIoLdd2_component.txt" FileDate="2014-12-27, 08:32:32" FileAge="1419640352606" FileType="45637" CompNumb="17" />
+      <File Name="Sources/TSS/TSS_SensorGPIO.c" FileDate="2014-12-27, 11:10:49" FileAge="1419649849018" FileType="16384" CompNumb="21" />
+      <File Name="Documentation/FDRM_KL05Z_blinkLED.txt" FileDate="2014-12-27, 09:33:42" FileAge="1419644022109" FileType="3072" />
+      <File Name="Static_Code/IO_Map/MKL05Z4.h" FileDate="2013-09-23, 13:52:22" FileAge="1379915542000" FileType="262144" />
+      <File Name="Project_Settings/Startup_Code/startup.c" FileDate="2014-12-25, 23:17:10" FileAge="1419520630598" FileType="16384" CompNumb="10" />
+      <File Name="Sources/TSS/TSS_StatusCodes.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849152" FileType="16384" CompNumb="21" />
+      <File Name="Documentation/doxygen/RoutingReport_component.txt" FileDate="2014-12-25, 23:17:10" FileAge="1419520630879" FileType="45637" CompNumb="10" />
+      <File Name="Static_Code/PDD/SysTick_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_SystemSetupData.c" FileDate="2014-12-27, 11:10:49" FileAge="1419649849165" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2014-12-25, 23:42:02" FileAge="1419522122629" FileType="45637" />
+      <File Name="Static_Code/PDD/DMAMUX_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2014-12-27, 09:33:40" FileAge="1419644020519" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/LEDR.h" FileDate="2014-12-25, 23:42:02" FileAge="1419522122673" FileType="45637" CompNumb="7" />
+      <File Name="Documentation/FDRM_KL05Z_blinkLED_Settings.xml" FileDate="2014-12-27, 11:10:53" FileAge="1419649853730" FileType="3072" />
+      <File Name="Generated_Code/LEDR.c" FileDate="2014-12-25, 23:42:02" FileAge="1419522122664" FileType="45637" CompNumb="7" />
+      <File Name="Generated_Code/TSS1.h" FileDate="2014-12-27, 09:33:40" FileAge="1419644020371" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/TSS1.c" FileDate="2014-12-27, 11:10:53" FileAge="1419649853522" FileType="45637" CompNumb="21" />
+      <File Name="Static_Code/PDD/PDD_Types.h" FileDate="2013-09-23, 13:52:22" FileAge="1379915542000" FileType="262144" />
+      <File Name="Static_Code/PDD/COP_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/TPM_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/FTFA_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Documentation/FDRM_KL05Z_blinkLED_SIGNALS.txt" FileDate="2014-12-27, 13:13:13" FileAge="1419657193388" FileType="3072" />
+      <File Name="Static_Code/PDD/CMP_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/PORT_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2014-12-25, 23:42:02" FileAge="1419522122639" FileType="45637" />
+      <File Name="Sources/TSS/TSS_DataTypes.h" FileDate="2014-12-27, 11:10:48" FileAge="1419649848927" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/BitIoLdd3.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352581" FileType="45637" CompNumb="20" />
+      <File Name="Sources/TSS/TSS_API.h" FileDate="2014-12-27, 11:10:48" FileAge="1419649848907" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/BitIoLdd3.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352576" FileType="45637" CompNumb="20" />
+      <File Name="Generated_Code/BitIoLdd2.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352619" FileType="45637" CompNumb="17" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2014-12-25, 23:42:02" FileAge="1419522122804" FileType="8" CompNumb="10" />
+      <File Name="ProjectInfo.xml" FileDate="2014-12-27, 11:10:55" FileAge="1419649855138" FileType="45637" />
+      <File Name="Sources/TSS/TSS_Sensor.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849001" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/BitIoLdd2.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352610" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/BitIoLdd1.h" FileDate="2014-12-25, 23:47:43" FileAge="1419522463606" FileType="45637" CompNumb="9" />
+      <File Name="Documentation/doxygen/BitIoLdd3_component.txt" FileDate="2014-12-27, 08:32:32" FileAge="1419640352572" FileType="45637" CompNumb="20" />
+      <File Name="Sources/TSS/TSS_Sensor.c" FileDate="2014-12-27, 11:10:48" FileAge="1419649848977" FileType="16384" CompNumb="21" />
+      <File Name="Generated_Code/BitIoLdd1.c" FileDate="2014-12-25, 23:47:43" FileAge="1419522463618" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/DMA_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Generated_Code/LEDG.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352591" FileType="45637" CompNumb="15" />
+      <File Name="Static_Code/PDD/SPI_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/UART0_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Generated_Code/LEDG.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352586" FileType="45637" CompNumb="15" />
+      <File Name="Documentation/doxygen/BitIoLdd1_component.txt" FileDate="2014-12-25, 23:47:43" FileAge="1419522463634" FileType="45637" CompNumb="9" />
+      <File Name="Static_Code/PDD/SIM_PDD.h" FileDate="2014-05-14, 10:09:28" FileAge="1400033368000" FileType="262144" />
+      <File Name="Static_Code/PDD/ADC_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Static_Code/PDD/DAC_PDD.h" FileDate="2014-02-28, 12:07:24" FileAge="1393560444000" FileType="262144" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849130" FileType="16384" CompNumb="21" />
+      <File Name="Sources/TSS/TSS_SystemSetupVal.h" FileDate="2014-12-27, 11:10:49" FileAge="1419649849197" FileType="16384" CompNumb="21" />
+      <File Name="Sources/TSS/TSS_SensorTSIL.c" FileDate="2014-12-27, 11:10:49" FileAge="1419649849108" FileType="16384" CompNumb="21" />
+      <File Name="Sources/TSS_SystemSetup.h" FileDate="2014-12-27, 11:10:53" FileAge="1419649853542" FileType="45637" CompNumb="21" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2014-12-27, 09:33:40" FileAge="1419644020499" FileType="45637" CompNumb="10" />
+      <File Name="Documentation/doxygen/FDRM_KL05Z_blinkLED_project.txt" FileDate="2014-12-27, 08:32:32" FileAge="1419640352690" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352701" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/LEDB.h" FileDate="2014-12-27, 08:32:32" FileAge="1419640352537" FileType="45637" CompNumb="18" />
+      <File Name="Sources/Events.h" FileDate="2014-12-27, 09:35:42" FileAge="1419644142946" FileType="131328" />
+      <File Name="Generated_Code/WAIT1.h" FileDate="2014-12-25, 23:42:02" FileAge="1419522122737" FileType="45637" CompNumb="6" />
+      <File Name="Generated_Code/LEDB.c" FileDate="2014-12-27, 08:32:32" FileAge="1419640352532" FileType="45637" CompNumb="18" />
+      <File Name="Sources/Events.c" FileDate="2014-12-27, 09:35:42" FileAge="1419644142954" FileType="131328" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2014-12-25, 23:42:02" FileAge="1419522122796" FileType="45637" CompNumb="10" />
+      <File Name="Generated_Code/WAIT1.c" FileDate="2014-12-25, 23:42:02" FileAge="1419522122726" FileType="45637" CompNumb="6" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>25</CodeGenReference>
+</CodeGenerationInfo>

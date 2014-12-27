@@ -16,3 +16,5 @@ http://www.usbmadesimple.co.uk/ums_4.htm
 http://phant.io/graphing/google/2014/07/07/graphing-data/
 https://www.sparkfun.com/news/1641
 https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing
+
+https://github.com/Hexalyse/RPi-weather-log/blob/master/dht11.c
