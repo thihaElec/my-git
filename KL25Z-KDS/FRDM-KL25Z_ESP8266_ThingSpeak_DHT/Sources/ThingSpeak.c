@@ -11,8 +11,8 @@
 
 #define THING_SPEAK_IP_STR      "184.106.153.149" /* thingspeak.com IP Address */
 #define THINK_SPEAK_IP_PORT     80 /* port number */
-#define THING_SPEAK_KEY_STR     "ZE8FP99LB25YP5VN" /* API key */
-#define THING_SPEAK_CHANNEL     21430 /* channel ID */
+#define THING_SPEAK_KEY_STR     "XXXXXXXXXXXXXXXX" /* API key */
+#define THING_SPEAK_CHANNEL     XXXXX /* channel ID */
 #define THING_SPEAK_LABEL_STR   "field1"
 
 /*!
